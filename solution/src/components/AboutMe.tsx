@@ -21,9 +21,10 @@ const AboutMe = () => {
               src={Portrait2}
               alt="Portrait picture 2"
             />
+            <p>Hei hei hie</p>
           </div>
           <div className="sm:text-right text-3xl ">
-            <p>Hi. I´m Alis, nice to meet you. Please take a look around.</p>
+            <p>Hi. I´m Julie, nice to meet you. Please take a look around.</p>
           </div>
           <div>
             <p>
